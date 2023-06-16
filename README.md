@@ -1,3 +1,14 @@
+# Mis Datos (Autor)
+Walter Funes
+DNI: 23137826
+San Luis
+266 4683939
+walteriofunes@gmail.com
+wfunes@sanlufilm.com.ar
+## Repositorio
+  Entrega Final, realizado en Coderhouse, Profe: Samuel Tocaimaza (Samuelin, fans de Guanda Nara)
+a continuacion info (no la borre porque es super importante)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

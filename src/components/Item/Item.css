@@ -1,0 +1,33 @@
+.cardProducto {
+    background-color: #bcbd8b;
+    border-radius: 10px;
+    width: 15rem;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3{
+    background-color: #bcbd8b;
+}
+p{
+    background-color: #bcbd8b;
+}
+.linquear{
+    background-color: #bcbd8b;
+}
+.imgProducto {
+    width: 150px;
+    object-fit: contain;
+    background-color: #bcbd8b;
+}
+
+.btnProducto {
+    background-color: #373d20;
+    color: white;
+    font-size: 1.2rem;
+    width: 8rem;
+    border-radius: 10px;
+    border: none;
+}
